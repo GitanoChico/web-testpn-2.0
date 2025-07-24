@@ -1,5 +1,5 @@
-Flask==2.3.3
+flask==2.3.3
 gunicorn==21.2.0
-openai==1.11.1
-PyMuPDF==1.22.5
-pandas==2.2.2
+pandas
+openai
+PyMuPDF==1.23.9
